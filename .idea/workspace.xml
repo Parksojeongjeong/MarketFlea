@@ -1,102 +1,79 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
   <component name="ChangeListManager">
     <list default="true" id="7024ca79-91f1-4f69-a1de-ec0a7724705a" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.gradle/4.10/fileChanges/last-build.bin" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.gradle/4.10/fileHashes/fileHashes.bin" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.gradle/4.10/fileHashes/fileHashes.lock" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.gradle/4.10/gc.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.gradle/4.10/taskHistory/taskHistory.bin" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.gradle/4.10/taskHistory/taskHistory.lock" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.gradle/6.9/fileChanges/last-build.bin" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.gradle/6.9/fileHashes/fileHashes.lock" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.gradle/6.9/gc.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.gradle/7.5/checksums/checksums.lock" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.gradle/7.5/dependencies-accessors/dependencies-accessors.lock" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.gradle/7.5/dependencies-accessors/gc.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.gradle/7.5/fileChanges/last-build.bin" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.gradle/7.5/fileHashes/fileHashes.lock" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.gradle/7.5/gc.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.gradle/buildOutputCleanup/cache.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.gradle/checksums/checksums.lock" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.gradle/checksums/md5-checksums.bin" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.gradle/checksums/sha1-checksums.bin" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.gradle/vcs-1/gc.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/dataSources.local.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/dataSources.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/dataSources/23526f28-9695-4d44-9296-b6c8da088d54.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/gradle.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/classes/META-INF/com.flab.marketflea.main.kotlin_module" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/classes/com/flab/marketflea/MarketfleaApplication.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/classes/com/flab/marketflea/common/ErrorCode.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/classes/com/flab/marketflea/common/ErrorResponse.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/classes/com/flab/marketflea/common/ResponseEntityConstants.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/classes/com/flab/marketflea/common/SessionService.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/classes/com/flab/marketflea/controller/ProductController.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/classes/com/flab/marketflea/controller/ShopController.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/classes/com/flab/marketflea/controller/UserController.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/classes/com/flab/marketflea/exception/GlobalExceptionHandler.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/classes/com/flab/marketflea/exception/product/ProductNotFoundException.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/classes/com/flab/marketflea/exception/shop/DuplicatedShopException.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/classes/com/flab/marketflea/exception/shop/InValidStatusException.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/classes/com/flab/marketflea/exception/shop/ShopNotFoundException.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/classes/com/flab/marketflea/exception/user/EncoderNoSuchAlgorithmException.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/classes/com/flab/marketflea/exception/user/UserNotFoundException.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/classes/com/flab/marketflea/exception/user/WrongPasswordException.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/classes/com/flab/marketflea/mapper/ProductMapper.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/classes/com/flab/marketflea/mapper/ShopMapper.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/classes/com/flab/marketflea/mapper/UserMapper.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/classes/com/flab/marketflea/model/product/Category.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/classes/com/flab/marketflea/model/product/Product$ProductBuilder.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/classes/com/flab/marketflea/model/product/Product.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/classes/com/flab/marketflea/model/product/ProductRequest$ProductRequestBuilder.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/classes/com/flab/marketflea/model/product/ProductRequest.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/classes/com/flab/marketflea/model/product/ProductResponse$ProductResponseBuilder.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/classes/com/flab/marketflea/model/product/ProductResponse.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/classes/com/flab/marketflea/model/shop/Shop$ShopBuilder.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/classes/com/flab/marketflea/model/shop/Shop$ShopStatus.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/classes/com/flab/marketflea/model/shop/Shop.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/classes/com/flab/marketflea/model/shop/ShopRequest$ShopRequestBuilder.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/classes/com/flab/marketflea/model/shop/ShopRequest.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/classes/com/flab/marketflea/model/shop/ShopResponse$ShopResponseBuilder.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/classes/com/flab/marketflea/model/shop/ShopResponse.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/classes/com/flab/marketflea/model/user/Role.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/classes/com/flab/marketflea/security/PasswordEncoder.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/classes/com/flab/marketflea/security/PasswordEncoderImpl.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/classes/com/flab/marketflea/service/loginservice/LoginService.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/classes/com/flab/marketflea/service/loginservice/SessionLoginService.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/classes/com/flab/marketflea/service/productservice/ProductService.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/classes/com/flab/marketflea/service/productservice/ProductServiceImpl.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/classes/com/flab/marketflea/service/shopservice/ShopService.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/classes/com/flab/marketflea/service/shopservice/ShopServiceImpl.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/classes/com/flab/marketflea/service/shopservice/adminservice/ShopAdminService.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/classes/com/flab/marketflea/service/userservice/UserService.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/resources/application.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/resources/application.yml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/resources/db/schema.sql" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/resources/mapper/ShopMapper.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/resources/mapper/UserMapper.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/application.properties" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/gradlew" beforeDir="false" afterPath="$PROJECT_DIR$/gradlew" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/gradlew.bat" beforeDir="false" afterPath="$PROJECT_DIR$/gradlew.bat" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/flab/marketflea/controller/ProductController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/flab/marketflea/controller/ProductController.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/flab/marketflea/service/productservice/ProductService.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/flab/marketflea/service/productservice/ProductService.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/flab/marketflea/service/productservice/ProductServiceImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/flab/marketflea/service/productservice/ProductServiceImpl.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/mapper/ProductMapper.xml" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/mapper/ProductMapper.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/flab/marketflea/config/LocalRedisConfig.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/flab/marketflea/config/RedisRepositoryConfig.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/4.10/fileChanges/last-build.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/4.10/fileHashes/fileHashes.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/4.10/fileHashes/fileHashes.lock" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/4.10/gc.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/4.10/taskHistory/taskHistory.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/4.10/taskHistory/taskHistory.lock" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/6.9/fileHashes/fileHashes.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/6.9/fileHashes/fileHashes.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/checksums/checksums.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/checksums/checksums.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/checksums/md5-checksums.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/checksums/md5-checksums.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/checksums/sha1-checksums.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/checksums/sha1-checksums.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/dataSources.local.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/dataSources.local.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/dataSources/23526f28-9695-4d44-9296-b6c8da088d54.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/dataSources/23526f28-9695-4d44-9296-b6c8da088d54.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/gradle.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/gradle.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/build.gradle" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/classes/com/flab/marketflea/MarketfleaApplication.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/classes/com/flab/marketflea/common/ErrorCode.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/classes/com/flab/marketflea/common/ErrorResponse.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/classes/com/flab/marketflea/common/ResponseEntityConstants.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/classes/com/flab/marketflea/common/SessionService.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/classes/com/flab/marketflea/controller/ProductController.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/classes/com/flab/marketflea/controller/ShopController.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/classes/com/flab/marketflea/controller/UserController.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/classes/com/flab/marketflea/exception/GlobalExceptionHandler.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/classes/com/flab/marketflea/exception/product/ProductNotFoundException.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/classes/com/flab/marketflea/exception/shop/DuplicatedShopException.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/classes/com/flab/marketflea/exception/shop/InValidStatusException.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/classes/com/flab/marketflea/exception/shop/ShopNotFoundException.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/classes/com/flab/marketflea/exception/user/EncoderNoSuchAlgorithmException.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/classes/com/flab/marketflea/exception/user/UserNotFoundException.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/classes/com/flab/marketflea/exception/user/WrongPasswordException.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/classes/com/flab/marketflea/mapper/ProductMapper.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/classes/com/flab/marketflea/mapper/ShopMapper.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/classes/com/flab/marketflea/mapper/UserMapper.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/classes/com/flab/marketflea/model/product/Category.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/classes/com/flab/marketflea/model/product/Product$ProductBuilder.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/classes/com/flab/marketflea/model/product/Product.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/classes/com/flab/marketflea/model/product/ProductRequest$ProductRequestBuilder.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/classes/com/flab/marketflea/model/product/ProductRequest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/classes/com/flab/marketflea/model/product/ProductResponse$ProductResponseBuilder.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/classes/com/flab/marketflea/model/product/ProductResponse.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/classes/com/flab/marketflea/model/shop/Shop$ShopBuilder.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/classes/com/flab/marketflea/model/shop/Shop$ShopStatus.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/classes/com/flab/marketflea/model/shop/Shop.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/classes/com/flab/marketflea/model/shop/ShopRequest$ShopRequestBuilder.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/classes/com/flab/marketflea/model/shop/ShopRequest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/classes/com/flab/marketflea/model/shop/ShopResponse$ShopResponseBuilder.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/classes/com/flab/marketflea/model/shop/ShopResponse.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/classes/com/flab/marketflea/model/user/Role.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/classes/com/flab/marketflea/security/PasswordEncoder.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/classes/com/flab/marketflea/security/PasswordEncoderImpl.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/classes/com/flab/marketflea/service/loginservice/LoginService.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/classes/com/flab/marketflea/service/loginservice/SessionLoginService.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/classes/com/flab/marketflea/service/productservice/ProductService.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/classes/com/flab/marketflea/service/productservice/ProductServiceImpl.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/classes/com/flab/marketflea/service/shopservice/ShopService.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/classes/com/flab/marketflea/service/shopservice/ShopServiceImpl.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/classes/com/flab/marketflea/service/shopservice/adminservice/ShopAdminService.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/classes/com/flab/marketflea/service/userservice/UserService.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/resources/application.yml" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/resources/application.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/flab/marketflea/MarketfleaApplication.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/flab/marketflea/MarketfleaApplication.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/application.yml" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/application.yml" afterDir="false" />
     </list>
-    <ignored path="$PROJECT_DIR$/out/" />
-    <ignored path="$PROJECT_DIR$/.gradle/" />
-    <ignored path="$PROJECT_DIR$/build/" />
-    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -129,130 +106,12 @@
       <state>
         <projects_view>
           <tree_state>
-            <expand>
-              <path>
-                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
-                <item name="marketflea" type="f1a62948:ProjectNode" />
-              </path>
-            </expand>
+            <expand />
             <select />
           </tree_state>
         </projects_view>
       </state>
     </system>
-  </component>
-  <component name="FavoritesManager">
-    <favorites_list name="marketflea" />
-  </component>
-  <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/flab/marketflea/service/userservice/UserService.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="418">
-              <caret line="39" column="21" selection-start-line="39" selection-start-column="21" selection-end-line="39" selection-end-column="21" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/flab/marketflea/controller/ProductController.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="109">
-              <caret line="53" column="24" selection-start-line="53" selection-start-column="24" selection-end-line="53" selection-end-column="24" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/main/resources/mapper/ProductMapper.xml">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="237">
-              <caret line="30" column="64" selection-start-line="30" selection-start-column="64" selection-end-line="30" selection-end-column="64" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/resources/application.properties">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="76">
-              <caret line="4" column="28" selection-start-line="4" selection-start-column="28" selection-end-line="4" selection-end-column="28" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/flab/marketflea/common/ErrorCode.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="589">
-              <caret line="32" selection-start-line="32" selection-end-line="32" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/flab/marketflea/service/userservice/command/UserInfoCommand.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="152">
-              <caret line="16" column="13" selection-start-line="16" selection-start-column="13" selection-end-line="16" selection-end-column="13" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/flab/marketflea/service/shopservice/ShopServiceImpl.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="152">
-              <caret line="21" column="13" selection-start-line="21" selection-start-column="13" selection-end-line="21" selection-end-column="13" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/flab/marketflea/service/productservice/ProductServiceImpl.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-43">
-              <caret line="19" column="13" selection-start-line="19" selection-start-column="13" selection-end-line="19" selection-end-column="13" />
-              <folding>
-                <element signature="imports" expanded="true" />
-                <element signature="method#addProduct#0;class#ProductServiceImpl#0" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/flab/marketflea/service/productservice/ProductService.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="209">
-              <caret line="12" selection-start-line="12" selection-end-line="12" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/flab/marketflea/service/userservice/command/UserLoginCommand.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="152">
-              <caret line="15" column="29" selection-start-line="15" selection-start-column="13" selection-end-line="15" selection-end-column="29" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-    </leaf>
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -290,7 +149,7 @@
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
     <option name="RECENT_BRANCH_BY_REPOSITORY">
       <map>
-        <entry key="$PROJECT_DIR$" value="develop" />
+        <entry key="$PROJECT_DIR$" value="feat/34" />
       </map>
     </option>
   </component>
@@ -302,10 +161,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/main/java/com/flab/marketflea/model/product/Product.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/flab/marketflea/model/user/LoginUser.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/flab/marketflea/model/user/UserPasswordUpdateCommand.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/flab/marketflea/model/user/UserPasswordUpdateRequest.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/flab/marketflea/service/userservice/command/UserPasswordUpdateCommand.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/flab/marketflea/mapper/dto/UserPasswordUpdateParam.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/flab/marketflea/model/user/UpdateUser.java" />
@@ -318,7 +173,6 @@
         <option value="$PROJECT_DIR$/src/main/java/com/flab/marketflea/model/shop/ShopOpenTimeUpdateRequest.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/flab/marketflea/model/shop/ShopOpenTimeInfo.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/flab/marketflea/common/ScheduleConfig.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/flab/marketflea/MarketfleaApplication.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/flab/marketflea/service/userservice/command/UserUpdateCommand.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/flab/marketflea/service/userservice/command/UserRequestCommand.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/flab/marketflea/mapper/param/UserInfoParam.java" />
@@ -353,15 +207,24 @@
         <option value="$PROJECT_DIR$/src/main/java/com/flab/marketflea/service/productservice/ProductService.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/flab/marketflea/controller/ProductController.java" />
         <option value="$PROJECT_DIR$/src/main/resources/mapper/ProductMapper.xml" />
+        <option value="$PROJECT_DIR$/src/main/resources/application.yml" />
+        <option value="$PROJECT_DIR$/src/main/java/com/flab/marketflea/MarketfleaApplication.java" />
+        <option value="$PROJECT_DIR$/build.gradle" />
+        <option value="$PROJECT_DIR$/src/main/java/com/flab/marketflea/config/RedisRepositoryConfig.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/flab/marketflea/config/LocalRedisConfig.java" />
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="951" />
-    <option name="y" value="-9" />
-    <option name="width" value="978" />
-    <option name="height" value="1048" />
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
   </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="365" />
+    <option name="y" value="295" />
+    <option name="width" value="1215" />
+    <option name="height" value="1040" />
+  </component>
+  <component name="ProjectId" id="2LMBGPxFhtxStLMAZQJ0jIpzqSP" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <ConfirmationsSetting value="2" id="Add" />
   </component>
@@ -370,152 +233,30 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="ProjectPane">
-        <subPane>
-          <expand>
-            <path>
-              <item name="marketflea" type="b2602c69:ProjectViewProjectNode" />
-              <item name="marketflea" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
-            </path>
-            <path>
-              <item name="marketflea" type="b2602c69:ProjectViewProjectNode" />
-              <item name="marketflea" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
-              <item name="out" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="marketflea" type="b2602c69:ProjectViewProjectNode" />
-              <item name="marketflea" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="marketflea" type="b2602c69:ProjectViewProjectNode" />
-              <item name="marketflea" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
-            </path>
-            <path>
-              <item name="marketflea" type="b2602c69:ProjectViewProjectNode" />
-              <item name="marketflea" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="marketflea" type="b2602c69:ProjectViewProjectNode" />
-              <item name="marketflea" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="com" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="marketflea" type="b2602c69:ProjectViewProjectNode" />
-              <item name="marketflea" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="com" type="462c0819:PsiDirectoryNode" />
-              <item name="flab" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="marketflea" type="b2602c69:ProjectViewProjectNode" />
-              <item name="marketflea" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="com" type="462c0819:PsiDirectoryNode" />
-              <item name="flab" type="462c0819:PsiDirectoryNode" />
-              <item name="marketflea" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="marketflea" type="b2602c69:ProjectViewProjectNode" />
-              <item name="marketflea" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="com" type="462c0819:PsiDirectoryNode" />
-              <item name="flab" type="462c0819:PsiDirectoryNode" />
-              <item name="marketflea" type="462c0819:PsiDirectoryNode" />
-              <item name="controller" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="marketflea" type="b2602c69:ProjectViewProjectNode" />
-              <item name="marketflea" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="com" type="462c0819:PsiDirectoryNode" />
-              <item name="flab" type="462c0819:PsiDirectoryNode" />
-              <item name="marketflea" type="462c0819:PsiDirectoryNode" />
-              <item name="service" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="marketflea" type="b2602c69:ProjectViewProjectNode" />
-              <item name="marketflea" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="com" type="462c0819:PsiDirectoryNode" />
-              <item name="flab" type="462c0819:PsiDirectoryNode" />
-              <item name="marketflea" type="462c0819:PsiDirectoryNode" />
-              <item name="service" type="462c0819:PsiDirectoryNode" />
-              <item name="productservice" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="marketflea" type="b2602c69:ProjectViewProjectNode" />
-              <item name="marketflea" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
-              <item name="resources" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="marketflea" type="b2602c69:ProjectViewProjectNode" />
-              <item name="marketflea" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
-              <item name="resources" type="462c0819:PsiDirectoryNode" />
-              <item name="db" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="marketflea" type="b2602c69:ProjectViewProjectNode" />
-              <item name="marketflea" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
-              <item name="resources" type="462c0819:PsiDirectoryNode" />
-              <item name="mapper" type="462c0819:PsiDirectoryNode" />
-            </path>
-          </expand>
-          <select />
-        </subPane>
-      </pane>
-      <pane id="Scope" />
       <pane id="PackagesPane" />
+      <pane id="ProjectPane" />
+      <pane id="Scope" />
     </panes>
   </component>
-  <component name="PropertiesComponent">
-    <property name="DatabaseDriversLRU" value="mysql" />
-    <property name="Downloaded.Files.Path.Enabled" value="false" />
-    <property name="Git.Branch.Popup.ShowAllRemotes" value="true" />
-    <property name="Repository.Attach.Annotations" value="false" />
-    <property name="Repository.Attach.JavaDocs" value="false" />
-    <property name="Repository.Attach.Sources" value="false" />
-    <property name="RequestMappingsPanelOrder0" value="0" />
-    <property name="RequestMappingsPanelOrder1" value="1" />
-    <property name="RequestMappingsPanelWidth0" value="75" />
-    <property name="RequestMappingsPanelWidth1" value="75" />
-    <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1673857501663" />
-    <property name="database.console.LAST_STATE" value="true" />
-    <property name="last_opened_file_path" value="$APPLICATION_CONFIG_DIR$/jdbc-drivers/MySQL Connector/J/5.1.47/mysql-connector-java-5.1.47.jar" />
-    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
-    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
-    <property name="nodejs_package_manager_path" value="npm" />
-    <property name="project.structure.last.edited" value="SDKs" />
-    <property name="project.structure.proportion" value="0.15" />
-    <property name="project.structure.side.proportion" value="0.2" />
-    <property name="settings.editor.selected.configurable" value="reference.settingsdialog.project.gradle" />
+  <component name="ProjectViewState">
+    <option name="showLibraryContents" value="true" />
   </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RequestMappingsPanelOrder0": "0",
+    "RequestMappingsPanelOrder1": "1",
+    "RequestMappingsPanelWidth0": "75",
+    "RequestMappingsPanelWidth1": "75",
+    "WebServerToolWindowFactoryState": "false",
+    "last_opened_file_path": "C:/marketflea",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "spring.configuration.checksum": "d8c5fb0bd003b3334ea2777b2381b00e",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
   <component name="RecentsManager">
     <key name="OPEN_URL_DIALOG">
       <recent name="https://github.com/KilJaeeun/gift-club.git" />
@@ -528,28 +269,16 @@
       <recent name="com.flab.marketflea.controller" />
     </key>
   </component>
-  <component name="RunDashboard">
-    <option name="ruleStates">
-      <list>
-        <RuleState>
-          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
-        </RuleState>
-        <RuleState>
-          <option name="name" value="StatusDashboardGroupingRule" />
-        </RuleState>
-      </list>
-    </option>
-  </component>
   <component name="RunManager">
     <configuration name="MarketfleaApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
       <module name="com.flab.marketflea.main" />
       <option name="SPRING_BOOT_MAIN_CLASS" value="com.flab.marketflea.MarketfleaApplication" />
-      <option name="ALTERNATIVE_JRE_PATH" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
   </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="SvnConfiguration">
     <configuration />
   </component>
@@ -709,6 +438,42 @@
       <workItem from="1673506243779" duration="7878000" />
       <workItem from="1673681403478" duration="1265000" />
       <workItem from="1673842832283" duration="6994000" />
+      <workItem from="1674626122792" duration="1192000" />
+      <workItem from="1674710755864" duration="2883000" />
+      <workItem from="1674884342677" duration="1084000" />
+      <workItem from="1674905370840" duration="1691000" />
+      <workItem from="1674954695568" duration="458000" />
+      <workItem from="1675058210640" duration="1378000" />
+      <workItem from="1675233863987" duration="983000" />
+      <workItem from="1675515247867" duration="591000" />
+      <workItem from="1675668286863" duration="366000" />
+      <workItem from="1675670981975" duration="2861000" />
+      <workItem from="1675748105864" duration="1407000" />
+      <workItem from="1675760484631" duration="4227000" />
+      <workItem from="1675834510361" duration="780000" />
+      <workItem from="1676100990264" duration="142000" />
+      <workItem from="1676103249546" duration="92000" />
+      <workItem from="1676183776178" duration="1228000" />
+      <workItem from="1676267186333" duration="13288000" />
+      <workItem from="1676369392759" duration="1250000" />
+      <workItem from="1676434766048" duration="8666000" />
+      <workItem from="1676524356574" duration="7964000" />
+      <workItem from="1676615097150" duration="611000" />
+      <workItem from="1676618449113" duration="605000" />
+      <workItem from="1676871363023" duration="2575000" />
+      <workItem from="1676956391478" duration="601000" />
+      <workItem from="1676979363775" duration="20000" />
+      <workItem from="1676979412029" duration="8000" />
+      <workItem from="1677236951179" duration="608000" />
+      <workItem from="1677305973854" duration="1210000" />
+      <workItem from="1677994686621" duration="14000" />
+      <workItem from="1678006543035" duration="606000" />
+      <workItem from="1685000372522" duration="673000" />
+      <workItem from="1685077336222" duration="616000" />
+      <workItem from="1685087976743" duration="2677000" />
+      <workItem from="1685345830462" duration="618000" />
+      <workItem from="1685422799121" duration="243000" />
+      <workItem from="1685522579650" duration="904000" />
     </task>
     <task id="LOCAL-00004" summary="상태코드 클래스 분리시키기(500에러 해결)">
       <created>1664032347330</created>
@@ -1057,7 +822,7 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="928846000" />
+    <option name="totallyTimeSpent" value="944224000" />
   </component>
   <component name="TodoView" selected-index="2">
     <todo-panel id="selected-file">
@@ -1070,9 +835,8 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
-    <editor active="true" />
     <layout>
-      <window_info content_ui="combo" x="3222" y="100" width="538" height="849" id="Project" order="0" sideWeight="0.49682876" visible="true" weight="0.31342283" />
+      <window_info content_ui="combo" x="3222" y="100" width="538" height="849" id="Project" order="0" sideWeight="0.49682876" visible="true" weight="0.0966443" />
       <window_info id="Structure" order="1" sideWeight="0.5021097" side_tool="true" weight="0.25302014" />
       <window_info id="Designer" order="2" />
       <window_info id="Image Layers" order="3" />
@@ -1082,29 +846,29 @@
       <window_info id="Web" order="7" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.7106383" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" sideWeight="0.8187919" visible="true" weight="0.41985816" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.8187919" weight="0.29555237" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.39858156" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="Build" order="6" weight="0.3286119" />
       <window_info anchor="bottom" id="TODO" order="7" sideWeight="0.4986577" weight="0.32907802" />
-      <window_info anchor="bottom" id="Terminal" order="8" sideWeight="0.5249308" weight="0.14042553" />
+      <window_info anchor="bottom" id="Terminal" order="8" sideWeight="0.5249308" weight="0.38014185" />
       <window_info anchor="bottom" id="Docker" order="9" show_stripe_button="false" />
       <window_info anchor="bottom" id="Database Changes" order="10" show_stripe_button="false" />
       <window_info anchor="bottom" id="Spring" order="11" sideWeight="0.49932885" weight="0.32907802" />
-      <window_info anchor="bottom" id="Messages" order="12" sideWeight="0.4966443" weight="0.19007093" />
+      <window_info active="true" anchor="bottom" id="Messages" order="12" sideWeight="0.49597314" visible="true" weight="0.35602838" />
       <window_info anchor="bottom" id="Version Control" order="13" sideWeight="0.47449663" weight="0.5262411" />
       <window_info anchor="bottom" id="Java Enterprise" order="14" sideWeight="0.49932885" weight="0.32907802" />
       <window_info anchor="bottom" id="Database Console" order="15" sideWeight="0.6669065" visible="true" weight="0.23404256" />
-      <window_info anchor="bottom" id="Event Log" order="16" sideWeight="0.47506925" side_tool="true" weight="0.3716312" />
+      <window_info active="true" anchor="bottom" id="Event Log" order="16" sideWeight="0.50402683" side_tool="true" visible="true" weight="0.28652483" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.24966443" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
       <window_info anchor="right" id="Maven" order="3" />
       <window_info anchor="right" id="Palette" order="4" />
       <window_info anchor="right" id="Capture Analysis" order="5" />
-      <window_info anchor="right" id="Gradle" order="6" weight="0.590604" />
-      <window_info anchor="right" id="Database" order="7" weight="0.32684565" />
+      <window_info anchor="right" id="Gradle" order="6" weight="0.58855885" />
+      <window_info anchor="right" id="Database" order="7" weight="0.32673267" />
       <window_info anchor="right" id="Palette&#9;" order="8" />
       <window_info anchor="right" id="Theme Preview" order="9" />
       <window_info anchor="right" id="Bean Validation" order="10" weight="0.3295964" />
@@ -1149,29 +913,14 @@
     </layout-to-restore>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
-    <option name="version" value="1" />
+    <option name="version" value="3" />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
     <option name="TAB_STATES">
       <map>
         <entry key="MAIN">
           <value>
-            <State>
-              <option name="RECENTLY_FILTERED_USER_GROUPS">
-                <collection />
-              </option>
-              <option name="RECENTLY_FILTERED_BRANCH_GROUPS">
-                <collection />
-              </option>
-              <option name="COLUMN_ORDER">
-                <list>
-                  <option value="0" />
-                  <option value="1" />
-                  <option value="2" />
-                  <option value="3" />
-                </list>
-              </option>
-            </State>
+            <State />
           </value>
         </entry>
       </map>
@@ -1219,30 +968,22 @@
     <MESSAGE value="." />
     <option name="LAST_COMMIT_MESSAGE" value="." />
   </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/flab/marketflea/service/userservice/UserService.java</url>
+          <line>60</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
   <component name="antWorkspaceConfiguration">
     <option name="IS_AUTOSCROLL_TO_SOURCE" value="false" />
     <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/flab/marketflea/mapper/param/UserInfoParam.java" />
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/flab/marketflea/service/loginservice/sellerservice/SellerService.java" />
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/flab/marketflea/mapper/param/UserPasswordUpdateParam.java" />
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/flab/marketflea/mapper/param/UserUpdateParam.java" />
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/flab/marketflea/mapper/param/UserLoginParam.java" />
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/flab/marketflea/model/user/UserLoginRequest.java" />
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/flab/marketflea/service/userservice/command/UserUpdateCommand.java" />
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/flab/marketflea/service/userservice/command/UserPasswordUpdateCommand.java" />
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/flab/marketflea/mapper/UserMapper.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="209">
-          <caret line="16" column="19" selection-start-line="16" selection-start-column="19" selection-end-line="16" selection-end-column="19" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/flab/marketflea/common/ScheduleConfig.java" />
-    <entry file="file://$PROJECT_DIR$/src/main/resources/application.yml">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com/flab/marketflea/model/shop/ShopOpenTimeInfo.java" />
     <entry file="file://$PROJECT_DIR$/src/main/resources/mapper/UserMapper.xml">
       <provider selected="true" editor-type-id="text-editor">
@@ -1261,13 +1002,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="323">
           <caret line="17" selection-start-line="17" selection-end-line="17" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/flab/marketflea/MarketfleaApplication.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="152">
-          <caret line="9" selection-start-line="9" selection-end-line="9" />
         </state>
       </provider>
     </entry>
@@ -1325,8 +1059,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com/flab/marketflea/model/shop/Shop.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="266">
-          <caret line="15" column="16" selection-start-line="15" selection-start-column="16" selection-end-line="15" selection-end-column="16" />
+        <state relative-caret-position="570">
+          <caret line="37" column="18" selection-start-line="37" selection-start-column="18" selection-end-line="37" selection-end-column="18" />
         </state>
       </provider>
     </entry>
@@ -1402,13 +1136,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/flab/marketflea/controller/ShopController.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="475">
-          <caret line="46" column="5" selection-start-line="46" selection-start-column="5" selection-end-line="46" selection-end-column="5" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com/flab/marketflea/exception/product/ProductNotFoundException.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="95">
@@ -1435,9 +1162,6 @@
           <caret line="26" column="1" selection-start-line="26" selection-start-column="1" selection-end-line="26" selection-end-column="1" />
         </state>
       </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/gradlew.bat">
-      <provider selected="true" editor-type-id="text-editor" />
     </entry>
     <entry file="file://$PROJECT_DIR$/gradlew">
       <provider selected="true" editor-type-id="text-editor">
@@ -1472,8 +1196,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com/flab/marketflea/common/ErrorCode.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="589">
-          <caret line="32" selection-start-line="32" selection-end-line="32" />
+        <state relative-caret-position="190">
+          <caret line="11" column="29" selection-start-line="11" selection-start-column="29" selection-end-line="11" selection-end-column="29" />
         </state>
       </provider>
     </entry>
@@ -1481,6 +1205,90 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="152">
           <caret line="16" column="13" selection-start-line="16" selection-start-column="13" selection-end-line="16" selection-end-column="13" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/resources/mapper/ProductMapper.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="237">
+          <caret line="30" column="64" selection-start-line="30" selection-start-column="64" selection-end-line="30" selection-end-column="64" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/gradle/wrapper/gradle-wrapper.properties">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="95">
+          <caret line="5" selection-start-line="5" selection-end-line="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.gitignore">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="152">
+          <caret line="8" column="11" selection-start-line="8" selection-start-column="11" selection-end-line="8" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/flab/marketflea/model/shop/ShopRequest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="152">
+          <caret line="13" column="13" selection-start-line="13" selection-start-column="13" selection-end-line="13" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/flab/marketflea/model/shop/ShopResponse.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="152">
+          <caret line="12" column="13" selection-start-line="12" selection-start-column="13" selection-end-line="12" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/flab/marketflea/controller/ShopController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="285">
+          <caret line="36" column="5" selection-start-line="36" selection-start-column="5" selection-end-line="36" selection-end-column="5" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/flab/marketflea/Config.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/flab/marketflea/common/ResponseEntityConstants.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="76">
+          <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/resources/application.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="57">
+          <caret line="3" column="14" selection-start-line="3" selection-start-column="14" selection-end-line="3" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.springframework.data/spring-data-redis/2.7.2/5866ab6a251df21db5041be39d4e52e1d8e1fcca/spring-data-redis-2.7.2-sources.jar!/org/springframework/data/redis/connection/RedisServer.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="209">
+          <caret line="28" column="13" selection-start-line="28" selection-start-column="13" selection-end-line="28" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/flab/marketflea/config/RedisRepositoryConfig.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="57">
+          <caret line="3" selection-start-line="3" selection-end-line="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/flab/marketflea/config/LocalRedisConfig.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="285">
+          <caret line="22" column="25" selection-start-line="22" selection-start-column="25" selection-end-line="22" selection-end-column="25" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
@@ -1497,38 +1305,13 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/flab/marketflea/service/userservice/command/UserLoginCommand.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="152">
-          <caret line="15" column="29" selection-start-line="15" selection-start-column="13" selection-end-line="15" selection-end-column="29" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/flab/marketflea/service/productservice/ProductService.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="209">
-          <caret line="12" selection-start-line="12" selection-end-line="12" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com/flab/marketflea/service/productservice/ProductServiceImpl.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-43">
+        <state relative-caret-position="209">
           <caret line="19" column="13" selection-start-line="19" selection-start-column="13" selection-end-line="19" selection-end-column="13" />
           <folding>
             <element signature="imports" expanded="true" />
-            <element signature="method#addProduct#0;class#ProductServiceImpl#0" />
           </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/flab/marketflea/controller/ProductController.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="109">
-          <caret line="53" column="24" selection-start-line="53" selection-start-column="24" selection-end-line="53" selection-end-column="24" />
         </state>
       </provider>
     </entry>
@@ -1539,10 +1322,51 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/resources/mapper/ProductMapper.xml">
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/flab/marketflea/MarketfleaApplication.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="237">
-          <caret line="30" column="64" selection-start-line="30" selection-start-column="64" selection-end-line="30" selection-end-column="64" />
+        <state relative-caret-position="95">
+          <caret line="7" column="14" selection-start-line="7" selection-start-column="14" selection-end-line="7" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/build.gradle">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="456">
+          <caret line="24" column="5" selection-start-line="24" selection-start-column="5" selection-end-line="24" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/gradlew.bat">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="969">
+          <caret line="51" selection-start-line="51" selection-end-line="51" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/flab/marketflea/service/productservice/ProductService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="190">
+          <caret line="11" column="1" selection-start-line="11" selection-start-column="1" selection-end-line="11" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/flab/marketflea/service/userservice/command/UserLoginCommand.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="152">
+          <caret line="15" column="29" selection-start-line="15" selection-start-column="13" selection-end-line="15" selection-end-column="29" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/flab/marketflea/controller/ProductController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="19">
+          <caret line="48" column="32" selection-start-line="48" selection-start-column="32" selection-end-line="48" selection-end-column="32" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>

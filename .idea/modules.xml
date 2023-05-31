@@ -2,9 +2,9 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/.idea/modules/com.flab.marketflea.iml" filepath="$PROJECT_DIR$/.idea/modules/com.flab.marketflea.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/com.flab.marketflea.main.iml" filepath="$PROJECT_DIR$/.idea/modules/com.flab.marketflea.main.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/com.flab.marketflea.test.iml" filepath="$PROJECT_DIR$/.idea/modules/com.flab.marketflea.test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/marketflea.iml" filepath="$PROJECT_DIR$/.idea/marketflea.iml" />
     </modules>
   </component>
 </project>
