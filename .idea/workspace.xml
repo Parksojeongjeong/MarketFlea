@@ -5,74 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="7024ca79-91f1-4f69-a1de-ec0a7724705a" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/flab/marketflea/config/LocalRedisConfig.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/flab/marketflea/config/RedisRepositoryConfig.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gradle/4.10/fileChanges/last-build.bin" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gradle/4.10/fileHashes/fileHashes.bin" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gradle/4.10/fileHashes/fileHashes.lock" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gradle/4.10/gc.properties" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gradle/4.10/taskHistory/taskHistory.bin" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gradle/4.10/taskHistory/taskHistory.lock" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gradle/6.9/fileHashes/fileHashes.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/6.9/fileHashes/fileHashes.lock" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gradle/checksums/checksums.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/checksums/checksums.lock" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gradle/checksums/md5-checksums.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/checksums/md5-checksums.bin" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gradle/checksums/sha1-checksums.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/checksums/sha1-checksums.bin" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/dataSources.local.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/dataSources.local.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/dataSources/23526f28-9695-4d44-9296-b6c8da088d54.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/dataSources/23526f28-9695-4d44-9296-b6c8da088d54.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/gradle.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/gradle.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/build.gradle" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/classes/com/flab/marketflea/MarketfleaApplication.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/classes/com/flab/marketflea/common/ErrorCode.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/classes/com/flab/marketflea/common/ErrorResponse.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/classes/com/flab/marketflea/common/ResponseEntityConstants.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/classes/com/flab/marketflea/common/SessionService.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/classes/com/flab/marketflea/controller/ProductController.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/classes/com/flab/marketflea/controller/ShopController.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/classes/com/flab/marketflea/controller/UserController.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/classes/com/flab/marketflea/exception/GlobalExceptionHandler.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/classes/com/flab/marketflea/exception/product/ProductNotFoundException.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/classes/com/flab/marketflea/exception/shop/DuplicatedShopException.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/classes/com/flab/marketflea/exception/shop/InValidStatusException.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/classes/com/flab/marketflea/exception/shop/ShopNotFoundException.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/classes/com/flab/marketflea/exception/user/EncoderNoSuchAlgorithmException.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/classes/com/flab/marketflea/exception/user/UserNotFoundException.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/classes/com/flab/marketflea/exception/user/WrongPasswordException.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/classes/com/flab/marketflea/mapper/ProductMapper.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/classes/com/flab/marketflea/mapper/ShopMapper.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/classes/com/flab/marketflea/mapper/UserMapper.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/classes/com/flab/marketflea/model/product/Category.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/classes/com/flab/marketflea/model/product/Product$ProductBuilder.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/classes/com/flab/marketflea/model/product/Product.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/classes/com/flab/marketflea/model/product/ProductRequest$ProductRequestBuilder.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/classes/com/flab/marketflea/model/product/ProductRequest.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/classes/com/flab/marketflea/model/product/ProductResponse$ProductResponseBuilder.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/classes/com/flab/marketflea/model/product/ProductResponse.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/classes/com/flab/marketflea/model/shop/Shop$ShopBuilder.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/classes/com/flab/marketflea/model/shop/Shop$ShopStatus.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/classes/com/flab/marketflea/model/shop/Shop.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/classes/com/flab/marketflea/model/shop/ShopRequest$ShopRequestBuilder.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/classes/com/flab/marketflea/model/shop/ShopRequest.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/classes/com/flab/marketflea/model/shop/ShopResponse$ShopResponseBuilder.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/classes/com/flab/marketflea/model/shop/ShopResponse.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/classes/com/flab/marketflea/model/user/Role.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/classes/com/flab/marketflea/security/PasswordEncoder.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/classes/com/flab/marketflea/security/PasswordEncoderImpl.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/classes/com/flab/marketflea/service/loginservice/LoginService.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/classes/com/flab/marketflea/service/loginservice/SessionLoginService.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/classes/com/flab/marketflea/service/productservice/ProductService.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/classes/com/flab/marketflea/service/productservice/ProductServiceImpl.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/classes/com/flab/marketflea/service/shopservice/ShopService.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/classes/com/flab/marketflea/service/shopservice/ShopServiceImpl.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/classes/com/flab/marketflea/service/shopservice/adminservice/ShopAdminService.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/classes/com/flab/marketflea/service/userservice/UserService.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/resources/application.yml" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/resources/application.yml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/flab/marketflea/MarketfleaApplication.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/flab/marketflea/MarketfleaApplication.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/application.yml" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/application.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/gradlew" beforeDir="false" afterPath="$PROJECT_DIR$/gradlew" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -241,22 +175,27 @@
   <component name="ProjectViewState">
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RequestMappingsPanelOrder0": "0",
-    "RequestMappingsPanelOrder1": "1",
-    "RequestMappingsPanelWidth0": "75",
-    "RequestMappingsPanelWidth1": "75",
-    "WebServerToolWindowFactoryState": "false",
-    "last_opened_file_path": "C:/marketflea",
-    "node.js.detected.package.eslint": "true",
-    "node.js.detected.package.tslint": "true",
-    "node.js.selected.package.eslint": "(autodetect)",
-    "node.js.selected.package.tslint": "(autodetect)",
-    "spring.configuration.checksum": "d8c5fb0bd003b3334ea2777b2381b00e",
-    "vue.rearranger.settings.migration": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RequestMappingsPanelOrder0&quot;: &quot;0&quot;,
+    &quot;RequestMappingsPanelOrder1&quot;: &quot;1&quot;,
+    &quot;RequestMappingsPanelWidth0&quot;: &quot;75&quot;,
+    &quot;RequestMappingsPanelWidth1&quot;: &quot;75&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/marketflea&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;Project&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.0&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.0&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;reference.settings.ide.settings.notifications&quot;,
+    &quot;spring.configuration.checksum&quot;: &quot;d8c5fb0bd003b3334ea2777b2381b00e&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="OPEN_URL_DIALOG">
       <recent name="https://github.com/KilJaeeun/gift-club.git" />
@@ -473,14 +412,9 @@
       <workItem from="1685087976743" duration="2677000" />
       <workItem from="1685345830462" duration="618000" />
       <workItem from="1685422799121" duration="243000" />
-      <workItem from="1685522579650" duration="904000" />
-    </task>
-    <task id="LOCAL-00004" summary="상태코드 클래스 분리시키기(500에러 해결)">
-      <created>1664032347330</created>
-      <option name="number" value="00004" />
-      <option name="presentableId" value="LOCAL-00004" />
-      <option name="project" value="LOCAL" />
-      <updated>1664032347330</updated>
+      <workItem from="1685522579650" duration="2313000" />
+      <workItem from="1685527311589" duration="1429000" />
+      <workItem from="1685534282985" duration="401000" />
     </task>
     <task id="LOCAL-00005" summary="로그인/로그아웃 구현">
       <created>1664600622227</created>
@@ -818,7 +752,14 @@
       <option name="project" value="LOCAL" />
       <updated>1673851863603</updated>
     </task>
-    <option name="localTasksCounter" value="53" />
+    <task id="LOCAL-00053" summary=".">
+      <created>1685523676753</created>
+      <option name="number" value="00053" />
+      <option name="presentableId" value="LOCAL-00053" />
+      <option name="project" value="LOCAL" />
+      <updated>1685523676754</updated>
+    </task>
+    <option name="localTasksCounter" value="54" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
@@ -978,6 +919,10 @@
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
+  </component>
+  <component name="XSLT-Support.FileAssociations.UIState">
+    <expand />
+    <select />
   </component>
   <component name="antWorkspaceConfiguration">
     <option name="IS_AUTOSCROLL_TO_SOURCE" value="false" />
